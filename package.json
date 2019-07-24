@@ -1,0 +1,12 @@
+{
+  "name": "learn-travis-bpdavtt",
+  "description": "Simple Travis-CI check for JSHint (Code Linting)",
+  "author": "bpdavitt",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jshint": "^2.10.2"
+  },
+  "scripts": {
+    "test": "jshint hello.js"
+  }
+}
